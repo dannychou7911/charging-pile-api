@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+*.log
+
+# Vite
+.vite/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+
+# Optional: Tailwind JIT cache
+.tailwind/
+
+# Optional: JetBrains Rider
+.idea/
+
+# Optional: VS Code settings
+.vscode/
